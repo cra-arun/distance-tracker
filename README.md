@@ -53,31 +53,31 @@
 ## 📸 Screenshots
 
 ### 🔄 App Flowchart
-![App Flowchart](screenshots/flowgraph.jpg)
+![App Flowchart](media/flowgraph.jpg)
 
 ### 🔐 Login Screen
-![Login Screen](screenshots/login_screen.jpg)
+![Login Screen](media/screenshots/login_screen.jpg)
 
 ### 🆕 Signup Screen
-![Signup Screen](screenshots/signup_screen.jpg)
+![Signup Screen](media/screenshots/signup_screen.jpg)
 
 ### 🏠 Home Screen
-![Home Screen](screenshots/home_screen.jpg)
+![Home Screen](media/screenshots/home_screen.jpg)
 
 ### ⚖️ Unit Selection Fragment
-![Unit Selection](screenshots/unit_selection.jpg)
+![Unit Selection](media/screenshots/unit_selection.jpg)
 
 ### 📏 Distance Fragment
-![Distance Tracking](screenshots/distance.jpg)
+![Distance Tracking](media/screenshots/distance.jpg)
 
 ### 🗺️ Map Fragment
-![Map Fragment](screenshots/maps.jpg)
+![Map Fragment](media/screenshots/maps.jpg)
 
 ### 🏆 Achievements Fragment
-![Achievements](screenshots/achievements.jpg)
+![Achievements](media/screenshots/achievements.jpg)
 
 ### 📅 History Fragment
-![History](screenshots/history.jpg)
+![History](media/screenshots/history.jpg)
 
 ---
 
