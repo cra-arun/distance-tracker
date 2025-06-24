@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "140753580504",
+    "firebase_url": "https://payment11-4e916-default-rtdb.firebaseio.com",
+    "project_id": "payment11-4e916",
+    "storage_bucket": "payment11-4e916.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140753580504:android:072cee7a54ab0a5e9782ad",
+        "android_client_info": {
+          "package_name": "com.example.distance_track"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140753580504-32gkc2h5qqn0jjgcopa8t5nb5jbct25q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.distance_track",
+            "certificate_hash": "998923e7e8df22c009f2b974f6c27cd67cc67d42"
+          }
+        },
+        {
+          "client_id": "140753580504-nc23j62m4nd8odn9ggiennirps2ob6uc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSn-1QBnPuioaNZhFuzi_e1_r5AcmhjYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140753580504-nc23j62m4nd8odn9ggiennirps2ob6uc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.distance_track.fragement_homes"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_fragement_homes" />
+
+    <fragment
+        android:id="@+id/nav_unit_select"
+        android:name="com.example.distance_track.fragement_unit_select"
+        android:label="@string/menu_unit_select"
+        tools:layout="@layout/fragment_fragement_unit_select" />
+    <fragment
+        android:id="@+id/nav_distance"
+        android:name="com.example.distance_track.fragement_distance"
+        android:label="@string/menu_distance"
+        tools:layout="@layout/fragment_fragement_distance" />
+    <fragment
+        android:id="@+id/nav_maps"
+        android:name="com.example.distance_track.fragment_map"
+        android:label="@string/menu_maps"
+        tools:layout="@layout/fragment_map" />
+    <fragment
+        android:id="@+id/nav_achievements"
+        android:name="com.example.distance_track.AchievementsFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_achievements" />
+    <fragment
+        android:id="@+id/nav_history"
+        android:name="com.example.distance_track.fragment_history"
+        android:label="@string/menu_history"
+        tools:layout="@layout/fragment_fragement_history" />
+
+</navigation>

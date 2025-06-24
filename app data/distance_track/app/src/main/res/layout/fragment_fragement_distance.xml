@@ -1,0 +1,92 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    tools:context=".fragement_distance"
+    android:background="?attr/colorOnSecondary">
+
+    <TextView
+        android:id="@+id/distanceText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:text="0.00 km"
+        android:textColor="@color/black"
+        android:textSize="34sp" />
+
+    <Button
+        android:id="@+id/btnToggleTracking"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/distanceText"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:text="Start Tracking"
+        android:textColor="@color/white"/>
+
+    <TextView
+        android:id="@+id/statustext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btnToggleTracking"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:text="Status: Not Tracking"
+        android:textColor="#77000000"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:id="@+id/timerText"
+        android:layout_width="140dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="288dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="255dp"
+        android:text="00:00:00"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/calorieText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="24dp"
+        android:layout_below="@id/timerText"
+        android:text="Calories: 0"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/totalMinutesText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/calorieText"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="24dp"
+        android:text="Total Minutes: 0"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/totalCaloriesText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/totalMinutesText"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="24dp"
+        android:text="Total Calories: 0"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/back_button_distance_fragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="30dp"
+        android:text="Back to Main"
+        android:textColor="@color/white"/>
+</RelativeLayout>
