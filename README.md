@@ -54,7 +54,7 @@
 
 
 ### 🔄 App Flowchart
-<img src="media/screenshots/flow%20graph.png" alt="App Flowchart" width="600"/>
+<img src="media/flow%20graph.png" alt="App Flowchart" width="600"/>
 
 ### 🔐 Login Screen
 <img src="media/screenshots/login_screen.jpg" alt="Login Screen" width="300"/>
