@@ -52,32 +52,34 @@
 
 ## 📸 Screenshots
 
+
 ### 🔄 App Flowchart
-![App Flowchart](media/flowgraph.jpg)
+<img src="media/screenshots/flow%20graph.png" alt="App Flowchart" width="600"/>
 
 ### 🔐 Login Screen
-![Login Screen](media/screenshots/login_screen.jpg)
+<img src="media/screenshots/login_screen.jpg" alt="Login Screen" width="300"/>
 
 ### 🆕 Signup Screen
-![Signup Screen](media/screenshots/signup_screen.jpg)
+<img src="media/screenshots/signup_screen.jpg" alt="Signup Screen" width="300"/>
 
 ### 🏠 Home Screen
-![Home Screen](media/screenshots/home_screen.jpg)
+<img src="media/screenshots/home_screen.jpg" alt="Home Screen" width="300"/>
 
 ### ⚖️ Unit Selection Fragment
-![Unit Selection](media/screenshots/unit_selection.jpg)
+<img src="media/screenshots/unit_selection.jpg" alt="Unit Selection" width="300"/>
 
 ### 📏 Distance Fragment
-![Distance Tracking](media/screenshots/distance.jpg)
+<img src="media/screenshots/distance.jpg" alt="Distance Tracking" width="300"/>
 
 ### 🗺️ Map Fragment
-![Map Fragment](media/screenshots/maps.jpg)
+<img src="media/screenshots/maps.jpg" alt="Map Fragment" width="300"/>
 
 ### 🏆 Achievements Fragment
-![Achievements](media/screenshots/achievements.jpg)
+<img src="media/screenshots/achievements.jpg" alt="Achievements" width="300"/>
 
 ### 📅 History Fragment
-![History](media/screenshots/history.jpg)
+<img src="media/screenshots/history.jpg" alt="History" width="300"/>
+
 
 ---
 
